@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Collaborative Project</title>
+</head>
+<body>
+<h1>Welcome to Collaborative Development</h1>
+<p>This project demonstrates GitHub collaboration.</p>
+</body>
+</html>
